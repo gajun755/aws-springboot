@@ -1,2 +1,2 @@
 # aws-springboot
-this is aws springboot session
+this is aws springboot practical
